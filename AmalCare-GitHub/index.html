@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AmalCare – Plateforme de Santé Oncologique au Maroc</title>
+  <meta name="description" content="AmalCare vous aide à trouver des centres d'oncologie, des associations de soutien et à comprendre votre parcours de soins au Maroc." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Cairo:wght@400;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./css/style.css" />
+</head>
+<body>
+
+<!-- ── Navbar ── -->
+<nav class="navbar">
+  <div class="container navbar-inner">
+    <a href="index.html" class="navbar-brand">
+      <div class="logo-icon">🏥</div>
+      <span>AmalCare</span>
+    </a>
+    <ul class="navbar-nav" role="navigation">
+      <li><a href="index.html" class="active" data-i18n="nav.home">Accueil</a></li>
+      <li><a href="centres.html" data-i18n="nav.centres">Centres</a></li>
+      <li><a href="associations.html" data-i18n="nav.associations">Associations</a></li>
+      <li><a href="map-centres.html" data-i18n="nav.map-centres">Carte</a></li>
+      <li><a href="#assurance" data-i18n="nav.assurance">Assurance</a></li>
+      <li><a href="#guide" data-i18n="nav.guide">Guide</a></li>
+    </ul>
+    <div class="navbar-actions">
+      <div class="lang-toggle" role="group" aria-label="Langue">
+        <button class="lang-btn active" data-lang="fr">FR</button>
+        <button class="lang-btn" data-lang="ar">AR</button>
+      </div>
+      <button class="hamburger" aria-label="Menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</nav>
+
+<!-- ── Hero ── -->
+<section class="hero">
+  <div class="container">
+    <div class="hero-content animate-in">
+      <div class="hero-eyebrow">
+        <span>🇲🇦</span>
+        <span>Plateforme de santé oncologique au Maroc</span>
+      </div>
+      <h1>Votre parcours de soins,<br/>simplifié et accompagné</h1>
+      <p class="hero-sub">
+        AmalCare vous guide pour trouver un centre d'oncologie agréé, une association de soutien près de chez vous, et vous aide à comprendre chaque étape de votre traitement.
+      </p>
+      <div class="hero-actions">
+        <a href="centres.html" class="btn btn-white btn-lg">🏥 Trouver un centre</a>
+        <a href="associations.html" class="btn btn-outline btn-lg" style="border-color:rgba(255,255,255,.6);color:white;">🤝 Associations de soutien</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── Stats Bar ── -->
+<section class="stats-bar">
+  <div class="container">
+    <div class="stats-grid">
+      <div class="stat-item">
+        <div class="stat-num" id="statCentres">15</div>
+        <div class="stat-label">Centres d'oncologie</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-num" id="statAssoc">10</div>
+        <div class="stat-label">Associations actives</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-num">12</div>
+        <div class="stat-label">Villes couvertes</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-num">24/7</div>
+        <div class="stat-label">Informations disponibles</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── Features ── -->
+<section class="features-section">
+  <div class="container">
+    <h2 class="section-title">Tout ce dont vous avez besoin</h2>
+    <p class="section-sub">Une plateforme conçue avec et pour les patients atteints de cancer et leurs proches.</p>
+    <div class="features-grid">
+      <a href="centres.html" class="feature-card" style="text-decoration:none;">
+        <div class="feature-icon teal">🏥</div>
+        <h3>Centres d'oncologie</h3>
+        <p>Trouvez les centres publics et privés agréés, filtrez par ville, type et services disponibles.</p>
+      </a>
+      <a href="associations.html" class="feature-card" style="text-decoration:none;">
+        <div class="feature-icon green">🤝</div>
+        <h3>Associations de soutien</h3>
+        <p>Connectez-vous avec des associations qui vous accompagnent : soutien psychologique, aide financière et plus.</p>
+      </a>
+      <a href="map-centres.html" class="feature-card" style="text-decoration:none;">
+        <div class="feature-icon blue">🗺️</div>
+        <h3>Carte interactive</h3>
+        <p>Visualisez tous les centres et associations sur une carte interactive. Localisez les plus proches de vous.</p>
+      </a>
+      <a href="#guide" class="feature-card" style="text-decoration:none;">
+        <div class="feature-icon amber">📋</div>
+        <h3>Guide du parcours</h3>
+        <p>Comprenez chaque étape : diagnostic, traitement, suivi post-thérapeutique et droits du patient.</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ── Quick City Links ── -->
+<section style="padding:3rem 0;background:var(--surface);border-top:1px solid var(--border);">
+  <div class="container">
+    <h2 style="text-align:center;margin-bottom:2rem;">Accès rapide par ville</h2>
+    <div id="cityLinks" style="display:flex;flex-wrap:wrap;gap:.75rem;justify-content:center;"></div>
+  </div>
+</section>
+
+<!-- ── Assurance ── -->
+<section id="assurance" style="padding:4rem 0;">
+  <div class="container">
+    <div id="assuranceGrid" style="display:grid;grid-template-columns:1fr 1fr;gap:2rem;align-items:center;">
+      <div>
+        <span class="badge badge-info" style="margin-bottom:1rem;">Assurance &amp; droits</span>
+        <h2 style="margin-bottom:1rem;">Connaissez vos droits et couvertures</h2>
+        <p style="margin-bottom:1rem;">Au Maroc, les patients atteints de cancer bénéficient de dispositifs de prise en charge spécifiques via l'AMO (Assurance Maladie Obligatoire) et le RAMED.</p>
+        <ul style="list-style:none;display:flex;flex-direction:column;gap:.75rem;margin-bottom:1.5rem;">
+          <li style="display:flex;gap:.75rem;align-items:flex-start;">
+            <span style="color:var(--primary);font-weight:700;flex-shrink:0;">✓</span>
+            <span style="color:var(--text-muted);font-size:.9rem;">AMO : prise en charge partielle ou totale des soins oncologiques pour les affiliés CNSS/CNOPS</span>
+          </li>
+          <li style="display:flex;gap:.75rem;align-items:flex-start;">
+            <span style="color:var(--primary);font-weight:700;flex-shrink:0;">✓</span>
+            <span style="color:var(--text-muted);font-size:.9rem;">RAMED : couverture médicale gratuite pour les personnes économiquement vulnérables</span>
+          </li>
+          <li style="display:flex;gap:.75rem;align-items:flex-start;">
+            <span style="color:var(--primary);font-weight:700;flex-shrink:0;">✓</span>
+            <span style="color:var(--text-muted);font-size:.9rem;">Fondation Lalla Salma : aides complémentaires pour les patients non couverts</span>
+          </li>
+        </ul>
+        <a href="associations.html" class="btn btn-primary">Trouver une aide</a>
+      </div>
+      <div style="background:linear-gradient(135deg,rgba(15,118,110,.06),rgba(20,184,166,.08));border:1px solid rgba(15,118,110,.15);border-radius:var(--radius-lg);padding:2rem;">
+        <h4 style="margin-bottom:1rem;color:var(--primary);">📞 Contacts utiles</h4>
+        <div style="display:flex;flex-direction:column;gap:.9rem;">
+          <div><div style="font-weight:600;font-size:.9rem;">Fondation Lalla Salma</div><div style="color:var(--text-muted);font-size:.82rem;">+212 5 37 65 50 00</div></div>
+          <div><div style="font-weight:600;font-size:.9rem;">CNSS – Service Santé</div><div style="color:var(--text-muted);font-size:.82rem;">+212 5 22 50 30 00</div></div>
+          <div><div style="font-weight:600;font-size:.9rem;">Ministère de la Santé</div><div style="color:var(--text-muted);font-size:.82rem;">+212 5 37 68 04 04</div></div>
+          <div><div style="font-weight:600;font-size:.9rem;">Urgences médicales</div><div style="color:#ef4444;font-size:.9rem;font-weight:700;">15</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── Guide ── -->
+<section id="guide" style="padding:4rem 0;background:var(--surface);border-top:1px solid var(--border);">
+  <div class="container">
+    <h2 class="section-title" style="margin-bottom:.75rem;">Guide du parcours de soins</h2>
+    <p class="section-sub">Les grandes étapes de la prise en charge oncologique au Maroc</p>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:1.25rem;margin-top:2rem;">
+      <div class="card animate-in" style="padding:1.5rem;text-align:center;">
+        <div style="font-size:2rem;margin-bottom:.75rem;">🔍</div>
+        <h4 style="margin-bottom:.5rem;">1. Détection</h4>
+        <p style="font-size:.85rem;">Dépistage précoce, consultation chez un généraliste, premiers examens.</p>
+      </div>
+      <div class="card animate-in" style="padding:1.5rem;text-align:center;animation-delay:.05s;">
+        <div style="font-size:2rem;margin-bottom:.75rem;">🧪</div>
+        <h4 style="margin-bottom:.5rem;">2. Diagnostic</h4>
+        <p style="font-size:.85rem;">Biopsie, imagerie médicale, analyse pathologique, bilan d'extension.</p>
+      </div>
+      <div class="card animate-in" style="padding:1.5rem;text-align:center;animation-delay:.1s;">
+        <div style="font-size:2rem;margin-bottom:.75rem;">👨‍⚕️</div>
+        <h4 style="margin-bottom:.5rem;">3. Concertation</h4>
+        <p style="font-size:.85rem;">Réunion pluridisciplinaire (RCP) pour définir le plan de traitement.</p>
+      </div>
+      <div class="card animate-in" style="padding:1.5rem;text-align:center;animation-delay:.15s;">
+        <div style="font-size:2rem;margin-bottom:.75rem;">💊</div>
+        <h4 style="margin-bottom:.5rem;">4. Traitement</h4>
+        <p style="font-size:.85rem;">Chimiothérapie, radiothérapie, chirurgie, immunothérapie ou combinaison.</p>
+      </div>
+      <div class="card animate-in" style="padding:1.5rem;text-align:center;animation-delay:.2s;">
+        <div style="font-size:2rem;margin-bottom:.75rem;">🌱</div>
+        <h4 style="margin-bottom:.5rem;">5. Suivi</h4>
+        <p style="font-size:.85rem;">Consultations régulières, gestion des effets secondaires, soins de support.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── CTA ── -->
+<section class="cta-section">
+  <div class="container">
+    <h2>Vous n'êtes pas seul(e)</h2>
+    <p>Des centaines de professionnels et bénévoles sont là pour vous accompagner à chaque étape.</p>
+    <div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;">
+      <a href="map-centres.html" class="btn btn-white btn-lg">🗺️ Voir la carte</a>
+      <a href="associations.html" class="btn btn-outline btn-lg" style="border-color:rgba(255,255,255,.6);color:white;">🤝 Trouver du soutien</a>
+    </div>
+  </div>
+</section>
+
+<!-- ── Footer ── -->
+<footer class="footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <div style="display:flex;align-items:center;gap:.6rem;font-weight:800;font-size:1.25rem;color:white;margin-bottom:.75rem;">
+          <div class="logo-icon">🏥</div><span>AmalCare</span>
+        </div>
+        <p>Plateforme d'information et d'orientation pour les patients atteints de cancer au Maroc.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Navigation</h4>
+        <a href="index.html">Accueil</a>
+        <a href="centres.html">Centres d'oncologie</a>
+        <a href="associations.html">Associations</a>
+        <a href="map-centres.html">Carte interactive</a>
+      </div>
+      <div class="footer-col">
+        <h4>Ressources</h4>
+        <a href="#guide">Guide parcours</a>
+        <a href="#assurance">Assurance &amp; droits</a>
+        <a href="map-associations.html">Carte associations</a>
+      </div>
+      <div class="footer-col">
+        <h4>Urgences</h4>
+        <a href="tel:15">🚨 SAMU : 15</a>
+        <a href="tel:150">🚑 Urgences : 150</a>
+        <a href="tel:+212537655000">📞 Fondation Lalla Salma</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2025 AmalCare – Tous droits réservés</span>
+      <span>Fait avec ❤️ pour les patients du Maroc</span>
+    </div>
+  </div>
+</footer>
+
+<script src="./js/main.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', async () => {
+    // Responsive grid
+    const grid = document.getElementById('assuranceGrid');
+    function resizeGrid() {
+      if (grid) grid.style.gridTemplateColumns = window.innerWidth < 768 ? '1fr' : '1fr 1fr';
+    }
+    resizeGrid();
+    window.addEventListener('resize', resizeGrid);
+
+    // Load stats
+    try {
+      const [cRes, aRes] = await Promise.all([
+        fetch('./data/centres.json'),
+        fetch('./data/associations.json'),
+      ]);
+      const centres = await cRes.json();
+      const assocs  = await aRes.json();
+      document.getElementById('statCentres').textContent = centres.length;
+      document.getElementById('statAssoc').textContent   = assocs.length;
+
+      // City links
+      const cities = [...new Set(centres.map(c => c.ville))].sort();
+      const container = document.getElementById('cityLinks');
+      cities.forEach(city => {
+        const a = document.createElement('a');
+        a.href = `centres.html?ville=${encodeURIComponent(city)}`;
+        a.className = 'btn btn-outline btn-sm';
+        a.textContent = city;
+        container.appendChild(a);
+      });
+    } catch(e) { /* graceful degradation */ }
+  });
+</script>
+</body>
+</html>
