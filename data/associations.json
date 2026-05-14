@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "nom": "Maison de Vie Casablanca Adultes",
+    "type_structure": "Maison de Vie officielle (Fondation Lalla Salma)",
+    "ville": "Casablanca",
+    "adresse": "59 Avenue de Nador, Casablanca",
+    "telephone": "+212522838323"
+  },
+  {
+    "id": 2,
+    "nom": "Maison de Vie Enfants Casablanca",
+    "type_structure": "Maison de Vie officielle (Fondation Lalla Salma)",
+    "ville": "Casablanca",
+    "adresse": "Bd Al Qods, Hay My Abdellah, Aïn Chok, Casablanca",
+    "telephone": "+212522522252"
+  },
+  {
+    "id": 3,
+    "nom": "Maison de Vie Meknès",
+    "type_structure": "Maison de Vie officielle (Fondation Lalla Salma)",
+    "ville": "Meknès",
+    "adresse": "Hôpital My Ismail, Rue Kifa, Ville nouvelle, Meknès",
+    "telephone": "+212535522080"
+  },
+  {
+    "id": 4,
+    "nom": "Maison de Vie Fès",
+    "type_structure": "Maison de Vie officielle (Fondation Lalla Salma)",
+    "ville": "Fès",
+    "adresse": "CHU Hassan II, Route de Sidi Harazem, Fès",
+    "telephone": "+212535618422"
+  },
+  {
+    "id": 5,
+    "nom": "Maison de Vie Béni Mellal",
+    "type_structure": "Maison de Vie officielle (Fondation Lalla Salma)",
+    "ville": "Béni Mellal",
+    "adresse": "Béni Mellal",
+    "telephone": "+212523000000"
+  },
+  {
+    "id": 6,
+    "nom": "Maison de Vie Marrakech",
+    "type_structure": "Maison de Vie officielle (Fondation Lalla Salma)",
+    "ville": "Marrakech",
+    "adresse": "Av. des Facultés Amerchich, proche CHU Mohammed VI",
+    "telephone": "+212524308888"
+  },
+  {
+    "id": 7,
+    "nom": "Maison de Vie Tanger",
+    "type_structure": "Maison de Vie officielle (Fondation Lalla Salma)",
+    "ville": "Tanger",
+    "adresse": "Tanger",
+    "telephone": "+212539000000"
+  },
+  {
+    "id": 8,
+    "nom": "Maison de Vie Agadir",
+    "type_structure": "Maison de Vie officielle (Fondation Lalla Salma)",
+    "ville": "Agadir",
+    "adresse": "Près Hôpital Hassan II, Agadir",
+    "telephone": "+212528840905"
+  },
+  {
+    "id": 9,
+    "nom": "Maison de Vie Laâyoune",
+    "type_structure": "Maison de Vie officielle (Fondation Lalla Salma)",
+    "ville": "Laâyoune",
+    "adresse": "Laâyoune",
+    "telephone": "+212528000001"
+  },
+  {
+    "id": 100,
+    "nom": "Association AMINO",
+    "type_structure": "Maison de Vie  (Fondation Lalla Salma)",
+    "ville": "Rabat",
+    "adresse": "Rabat (gestion Maison de Vie Rabat)",
+    "telephone": "+212537000000"
+  },
+  {
+    "id": 101,
+    "nom": "Association JANNAT",
+    "type_structure": "Association",
+    "ville": "Rabat",
+    "adresse": "Rabat",
+    "telephone": "+212537123456"
+  },
+  {
+    "id": 102,
+    "nom": "Dar Babana Face au Cancer",
+    "type_structure": "Structure partenaire / Association",
+    "ville": "Marrakech",
+    "adresse": "Villa 183, Lotissement Sakar, Boumesmar, Marrakech",
+    "telephone": "+212624730373"
+  },
+  {
+    "id": 103,
+    "nom": "Assoc. Les Amis des Malades du Cancer Souss Massa",
+    "type_structure": "Association",
+    "ville": "Agadir",
+    "adresse": "Agadir",
+    "telephone": "+212528445566"
+  },
+  {
+    "id": 104,
+    "nom": "Association L'Avenir",
+    "type_structure": "Association",
+    "ville": "Rabat",
+    "adresse": "Hay Nahda Groupe II, Route Oued Akrach, Rabat",
+    "telephone": "+212537754174"
+  },
+  {
+    "id": 105,
+    "nom": "Association AGIR",
+    "type_structure": "Association",
+    "ville": "Casablanca",
+    "adresse": "Hôpital 20 Août 1953, CHU Ibn Rochd, Casablanca",
+    "telephone": "05 22 22 78 05"
+  },
+  {
+    "id": 106,
+    "nom": "Association Cœur de Femmes",
+    "type_structure": "Association",
+    "ville": "Casablanca",
+    "adresse": "Casablanca",
+    "telephone": "+212661147970"
+  },
+  {
+    "id": 107,
+    "nom": "Association Touche Guérison",
+    "type_structure": "Association",
+    "ville": "Région Oriental",
+    "adresse": "Région Oriental",
+    "telephone": null
+  },
+  {
+    "id": 108,
+    "nom": "Association Casablancaise d'Oncologie",
+    "type_structure": "Association",
+    "ville": "Casablanca",
+    "adresse": "Casablanca",
+    "telephone": null
+  },
+  {
+    "id": 109,
+    "nom": "Association Dar Zhor",
+    "type_structure": "Association",
+    "ville": "Casablanca",
+    "adresse": "396 Bd Zerktouni, Apt 6, 3e ét., Res Dar Essalam, Casablanca",
+    "telephone": "+212520972609"
+  },
+  {
+    "id": 110,
+    "nom": "Association NABD-BC2",
+    "type_structure": "Association",
+    "ville": "Kénitra",
+    "adresse": "N°18 Rue Amr Ibn Ass, B6, Imm B, 14000 Kénitra",
+    "telephone": "+212643825728"
+  },
+  {
+    "id": 111,
+    "nom": "Les Amis du Ruban Rose",
+    "type_structure": "Association",
+    "ville": "Casablanca",
+    "adresse": "Casablanca",
+    "telephone": null
+  },
+  {
+    "id": 112,
+    "nom": "AMPAC",
+    "type_structure": "Association",
+    "ville": "Kénitra",
+    "adresse": "Maison de la Culture Mohamed El Alaoui Belarbi, Kénitra",
+    "telephone": "06 71 91 78 78"
+  },
+  {
+    "id": 113,
+    "nom": "association Noussayba",
+    "type_structure": "association",
+    "ville": "Rabat",
+    "adresse": "N186 Amal 4 Yaakoub Al Mansour,Rabat",
+    "telephone": "05 37 79 73 87/ 06 00 72 83 01"
+  },
+  {
+    "id": 114,
+    "nom": "Association l'Avenir Fès",
+    "type_structure": "association",
+    "ville": "Fès",
+    "adresse": "Kissariat Hay Anas I (à côté B.P.) Fès ",
+    "telephone": "0661 147 214 - 0618 667 991"
+  },
+  {
+    "id": 115,
+    "nom": "Association Ahlam Elaasafir",
+    "type_structure": "association",
+    "ville": "Rabat",
+    "adresse": "Hay Yaakoub AlMansour Rabat",
+    "telephone": "06 98 05 16 73"
+  }
+]

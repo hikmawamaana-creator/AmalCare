@@ -1,0 +1,412 @@
+[
+  {
+    "id": "INO-001",
+    "nom_fr": "Institut National d'Oncologie (INO)",
+    "nom_ar": "المعهد الوطني للأنكولوجيا",
+    "ville": "Rabat",
+    "type": "Public",
+    "niveau": "Centre de référence national",
+    "adresse": "Av. Allal Al Fassi, Hay Riad, Rabat",
+    "telephone": "05 37 71 24 68 -84"
+  },
+  {
+    "id": "HCZ-002",
+    "nom_fr": "Hôpital Cheikh Zaid – Centre d'Oncologie (HUI)",
+    "nom_ar": "مستشفى الشيخ زايد - مركز الأورام",
+    "ville": "Rabat",
+    "type": "Privé",
+    "niveau": "Centre spécialisé",
+    "adresse": "Avenue Allal Fassi Madinate Al Irfane, Hay Riad",
+    "telephone": "05 37 68 68 68/           05 37 68 38 00"
+  },
+  {
+    "id": "CIO-CASA-004",
+    "nom_fr": "Centre International d'Oncologie Casablanca – AKDITAL (CIOC)",
+    "nom_ar": "المركز الدولي لعلاج الأورام - الدار البيضاء",
+    "ville": "Casablanca",
+    "type": "Privé",
+    "niveau": "Centre de référence privé",
+    "adresse": "4, Route de l'Oasis, Rue des Alouettes, Casablanca",
+    "telephone": "+212522778181"
+  },
+  {
+    "id": "FES-005",
+    "nom_fr": "CHU Hassan II – Centre d'Oncologie",
+    "nom_ar": "مستشفى الحسن الثاني - الأورام",
+    "ville": "Fès",
+    "type": "Public",
+    "niveau": "Centre spécialisé",
+    "adresse": "Route Sidi Harazem, Fès",
+    "telephone": "+212535619052"
+  },
+  {
+    "id": "MARR-006",
+    "nom_fr": "CHU Mohammed VI Marrakech – Oncologie",
+    "nom_ar": "مستشفى محمد السادس - الأورام",
+    "ville": "Marrakech",
+    "type": "Public",
+    "niveau": "Centre spécialisé",
+    "adresse": "CHU Mohammed VI Avenue Ibn Sina",
+    "telephone": " 05 24 30 06 29"
+  },
+  {
+    "id": "TANGER-011",
+    "nom_fr": "Clinique d'Oncologie de Tanger – ONCORAD GROUP",
+    "nom_ar": "عيادة الأورام طنجة - مجموعة أونكوراد",
+    "ville": "Tanger",
+    "type": "Privé",
+    "niveau": "Centre spécialisé",
+    "adresse": "Lot 12, Z.A.T. El Ghandouri, Malabata, Tanger",
+    "telephone": "+212539301786"
+  },
+  {
+    "id": "AGADIR-008",
+    "nom_fr": "Centre Régional d'Oncologie Agadir",
+    "nom_ar": "المركز الجهوي لعلاج السرطان أكادير",
+    "ville": "Agadir",
+    "type": "Public",
+    "niveau": "Centre régional",
+    "adresse": "Près Hôpital Hassan II, Agadir",
+    "telephone": "05 28 84 14 77 – 05 28 84 19 77"
+  },
+  {
+    "id": "OUJDA-010",
+    "nom_fr": "CHU Mohammed VI Oujda – Oncologie",
+    "nom_ar": "مستشفى محمد السادس وجدة - الأورام",
+    "ville": "Oujda",
+    "type": "Public",
+    "niveau": "Centre spécialisé",
+    "adresse": "CHU MOHAMMED VI, Oujda",
+    "telephone": "05 36 70 01 11"
+  },
+  {
+    "id": "MEKNES-013",
+    "nom_fr": "Centre Régional d'Oncologie Meknès",
+    "nom_ar": "المركز الجهوي للأورام مكناس",
+    "ville": "Meknès",
+    "type": "Public",
+    "niveau": "Centre régional",
+    "adresse": "Hôpital My Ismail, Rue Kifa, Ville nouvelle, Meknès",
+    "telephone": "05 55 52 28 05 - 05 55 52 26 22"
+  },
+  {
+    "id": "LAAYOUNE-018",
+    "nom_fr": "Centre d'Oncologie Laâyoune (Public)",
+    "nom_ar": "مركز الأورام العيون",
+    "ville": "Laâyoune",
+    "type": "Public",
+    "niveau": "Centre régional",
+    "adresse": "Quartier 25 mars Laâyoune",
+    "telephone": "05 37 77 70 70"
+  },
+  {
+    "id": "BENI-MELLAL-029",
+    "nom_fr": "Centre d'Oncologie Béni Mellal (Public)",
+    "nom_ar": "مركز الأورام بني ملال",
+    "ville": "Béni Mellal",
+    "type": "Public",
+    "niveau": "Centre régional",
+    "adresse": "Commune Ouled M'Barek Béni Mellal",
+    "telephone": "05 23 46 15 97"
+  },
+  {
+    "id": "SHOP-020",
+    "nom_fr": "Service Hémato-Oncologie Pédiatrique (SHOP) – Hôpital d'Enfants Rabat",
+    "nom_ar": "مصلحة طب الدم والأورام للأطفال - مستشفى الأطفال الرباط",
+    "ville": "Rabat",
+    "type": "Public",
+    "niveau": "Service spécialisé pédiatrique",
+    "adresse": "Hôpital d'Enfants, CHU Ibn Sina, Rabat",
+    "telephone": "05 37 67 02 24"
+  },
+  {
+    "id": "HCK-021",
+    "nom_fr": "Casablanca Cancer Center – Hôpital Cheikh Khalifa",
+    "nom_ar": "مركز الدار البيضاء للسرطان - مستشفى الشيخ خليفة",
+    "ville": "Casablanca",
+    "type": "Privé",
+    "niveau": "Centre de référence privé",
+    "adresse": "Bd Mohamed Taieb Naciri, Hay Hassani, Casablanca",
+    "telephone": "05 29 00 44 77"
+  },
+  {
+    "id": "LITTORAL-022",
+    "nom_fr": "Clinique d'Oncologie Le Littoral – ONCORAD GROUP",
+    "nom_ar": "عيادة الأورام اللتورال - مجموعة أونكوراد",
+    "ville": "Casablanca",
+    "type": "Privé",
+    "niveau": "Centre de référence privé",
+    "adresse": "Salaj 3, Corniche Aïn Diab, Casablanca",
+    "telephone": "05 20 66 68 90 /05 22 79 89 18-21"
+  },
+  {
+    "id": "MAJORELLE-023",
+    "nom_fr": "Centre d'Oncologie Majorelle Marrakech – ONCORAD GROUP",
+    "nom_ar": "مركز الأورام ماجوريل مراكش - مجموعة أونكوراد",
+    "ville": "Marrakech",
+    "type": "Privé",
+    "niveau": "Centre spécialisé",
+    "adresse": "Quartier Masmoudi Marrakech",
+    "telephone": "05 24 39 65 38"
+  },
+  {
+    "id": "ATL-AGADIR-024",
+    "nom_fr": "Centre d'Oncologie Atlantique Agadir – ONCORAD",
+    "nom_ar": "مركز أورام أطلنتيك أكادير",
+    "ville": "Agadir",
+    "type": "Privé",
+    "niveau": "Centre spécialisé",
+    "adresse": "Lot 624/625, Tikiouine, Extension Tilila, Agadir",
+    "telephone": "05 28 28 90 50 / 06 66 72 78 76"
+  },
+  {
+    "id": "IBN-NAFIS-025",
+    "nom_fr": "Hôpital International Ibn Nafis Marrakech – AKDITAL",
+    "nom_ar": "مستشفى ابن نفيس الدولي مراكش",
+    "ville": "Marrakech",
+    "type": "Privé",
+    "niveau": "Centre spécialisé",
+    "adresse": "Boumesmar Extension P2, Eddaoudiat – MARRAKECH.",
+    "telephone": "05 24 29 94 94"
+  },
+  {
+    "id": "CIO-TANGER-026",
+    "nom_fr": "Centre International d'Oncologie Boughaz – AKDITAL",
+    "nom_ar": "المركز الدولي للأورام البوغاز - طنجة",
+    "ville": "Tanger",
+    "type": "Privé",
+    "niveau": "Centre spécialisé",
+    "adresse": "Av. Moulay Rachid, Tanger (rattaché Hôpital Privé AKDITAL)",
+    "telephone": "+212539319898"
+  },
+  {
+    "id": "SALE-027",
+    "nom_fr": "Centre d'Oncologie Privé de Salé – AKDITAL",
+    "nom_ar": "مركز الأورام الخاص بسلا",
+    "ville": "Salé",
+    "type": "Privé",
+    "niveau": "Centre spécialisé",
+    "adresse": "Salé",
+    "telephone": "05 37 88 88 88"
+  },
+  {
+    "id": "CIO-FES-028",
+    "nom_fr": "Centre International d'Oncologie de Fès – AKDITAL",
+    "nom_ar": "المركز الدولي للأورام فاس",
+    "ville": "Fès",
+    "type": "Privé",
+    "niveau": "Centre spécialisé",
+    "adresse": "Fès",
+    "telephone": "05 35 72 48 48"
+  },
+  {
+    "id": "CIO-OUJDA-029",
+    "nom_fr": "Centre International d'Oncologie Oujda – AKDITAL",
+    "nom_ar": "المركز الدولي للأورام وجدة",
+    "ville": "Oujda",
+    "type": "Privé",
+    "niveau": "Centre spécialisé",
+    "adresse": "Rue Al Hanae Hay Arrabie, Oujda",
+    "telephone": "05 36 53 93 94"
+  },
+  {
+    "id": "CIO-MEKNES-030",
+    "nom_fr": "Centre International d'Oncologie de Meknès – AKDITAL",
+    "nom_ar": "المركز الدولي للأورام مكناس",
+    "ville": "Meknès",
+    "type": "Privé",
+    "niveau": "Centre spécialisé",
+    "adresse": "Meknès",
+    "telephone": "05 35 51 99 99"
+  },
+  {
+    "id": "CIO-KENITRA-031",
+    "nom_fr": "Centre International d'Oncologie de Kénitra – AKDITAL",
+    "nom_ar": "المركز الدولي للأورام القنيطرة",
+    "ville": "Kénitra",
+    "type": "Privé",
+    "niveau": "Centre spécialisé",
+    "adresse": "Kénitra",
+    "telephone": "05 37 36 96 96"
+  },
+  {
+    "id": "BENGUERIR-032",
+    "nom_fr": "Centre International d'Oncologie de Benguérir – AKDITAL × UM6P",
+    "nom_ar": "المركز الدولي للأورام بنكرير",
+    "ville": "Benguérir",
+    "type": "Privé",
+    "niveau": "Centre d'excellence",
+    "adresse": "Health Care City, Benguérir (Smart City UM6P)",
+    "telephone": "05 24 32 14 14 - 06 66 75 86 35"
+  },
+  {
+    "id": "ELJADIDA-033",
+    "nom_fr": "Centre International d'Oncologie d'El Jadida – AKDITAL",
+    "nom_ar": "المركز الدولي للأورام الجديدة",
+    "ville": "El Jadida",
+    "type": "Privé",
+    "niveau": "Centre spécialisé",
+    "adresse": "Ouassat Eljadida lot 32/E im.N2",
+    "telephone": "05 23 36 78 78"
+  },
+  {
+    "id": "LDR-SALE-034",
+    "nom_fr": "Centre International d'Oncologie Les Deux Rives",
+    "nom_ar": "المركز الدولي للأورام ضفتان سلا",
+    "ville": "Salé",
+    "type": "Privé",
+    "niveau": "Centre spécialisé",
+    "adresse": "66, Av. Hassan II, Hay Salam, Secteur I, Bettana, Salé",
+    "telephone": "0537803636  /0661557624"
+  },
+  {
+    "id": "TANGER-PUBLIC-027",
+    "nom_fr": "Centre d’Oncologie Ahmed Ben Zayd",
+    "nom_ar": "المركز الجهوي للأنكولوجيا أحمد بن زايد",
+    "ville": "Tanger",
+    "type": "Public",
+    "niveau": "Centre d'oncologie",
+    "adresse": "Km 16, route de Rabat, Tanger",
+    "telephone": "05 39 39 24 65"
+  },
+  {
+    "id": "RABAT-AKDITAL-029",
+    "nom_fr": "Clinique Internationale de Rabat – Oncologie AKDITAL",
+    "nom_ar": "المصحة الدولية الرباط – الأورام",
+    "ville": "Rabat",
+    "type": "Privé",
+    "niveau": "Centre spécialisé",
+    "adresse": "Quartier Agdal- Rabat",
+    "telephone": "05 37 74 99 99"
+  },
+  {
+    "id": "RABAT-PRIVATE-028",
+    "nom_fr": "Centre d’Oncologie Al Azhar",
+    "nom_ar": "مركز الأزهر للأنكولوجيا",
+    "ville": "Rabat",
+    "type": "Privé",
+    "niveau": "Centre spécialisé",
+    "adresse": "Rue Idriss Al Azhar, Hassan",
+    "telephone": "05 37 20 11 00"
+  },
+  {
+    "id": "RABAT-MIL-030",
+    "nom_fr": "Hôpital Militaire Mohammed V – Oncologie",
+    "nom_ar": "المستشفى العسكري محمد الخامس – الأورام",
+    "ville": "Rabat",
+    "type": "Public militaire",
+    "niveau": "Service oncologie",
+    "adresse": "05 37 20 11 00",
+    "telephone": "05 37 71 44 19"
+  },
+  {
+    "id": "RABAT-PRIVATE-031",
+    "nom_fr": "Centre d’Oncologie Nakhil",
+    "nom_ar": "مركز الأنكولوجيا النخيل",
+    "ville": "Rabat",
+    "type": "Privé",
+    "niveau": "Centre spécialisé",
+    "adresse": "4 Place Talha, Avenue Ibn Sina, Agdal, Rabat",
+    "telephone": "05 37 77 70 70 / 05 37 68 37 93"
+  },
+  {
+    "id": "CASA-PRIVATE-033",
+    "nom_fr": "Centre de Traitement Al Kindy",
+    "nom_ar": "مركز العلاج الكندي",
+    "ville": "Casablanca",
+    "type": "Privé",
+    "niveau": "Centre spécialisé",
+    "adresse": "Rue Abou Youssef El Kindy, Casablanca",
+    "telephone": "05 22 39 33 33/05 22 36 73 22"
+  },
+  {
+    "id": "CASA-PRIVATE-034",
+    "nom_fr": "Clinique Ryad Oncologie",
+    "nom_ar": "مصحة الرياض للأنكولوجيا",
+    "ville": "Casablanca",
+    "type": "Privé",
+    "niveau": "Centre spécialisé",
+    "adresse": "Quartier des Hôpitaux, Casablanca",
+    "telephone": "05 22 86 27 00"
+  },
+  {
+    "id": "CASA-PUBLIC-036",
+    "nom_fr": "Centre Mohammed VI d’Oncologie – CHU Ibn Rochd",
+    "nom_ar": "مركز محمد السادس للأنكولوجيا – ابن رشد",
+    "ville": "Casablanca",
+    "type": "Public",
+    "niveau": "Centre spécialisé universitaire",
+    "adresse": "CHU Ibn Rochd, Casablanca",
+    "telephone": "05 22 48 20 20"
+  },
+  {
+    "id": "CASA-PUBLIC-037",
+    "nom_fr": "Hôpital 20 Août 1953 – Hématologie & Oncologie Pédiatrique",
+    "nom_ar": "مستشفى 20 غشت 1953 – أمراض الدم وأنكولوجيا الأطفال",
+    "ville": "Casablanca",
+    "type": "Public",
+    "niveau": "Service spécialisé",
+    "adresse": "Hôpital 20 Août 1953,  6 rueLahcen El Aarjoun Quartier des hôpitaux Casablanca",
+    "telephone": "05 22 22 78 05"
+  },
+  {
+    "id": "CASA-PRIVE-038",
+    "nom_fr": "Clinique Badr – Unité d’Oncologie Médicale",
+    "nom_ar": "مصحة بدر – وحدة الأنكولوجيا الطبية",
+    "ville": "Casablanca",
+    "type": "Privé",
+    "niveau": "Service oncologie",
+    "adresse": "35 Rue Imam El Aloussi, Casablanca",
+    "telephone": "05 22 49 23 80"
+  },
+  {
+    "id": "CASA-PRIVE-039",
+    "nom_fr": "Centre d’Oncologie Zerktouni",
+    "nom_ar": "مركز الزرقطوني للأنكولوجيا",
+    "ville": "Casablanca",
+    "type": "Privé",
+    "niveau": "Cabinet oncologie",
+    "adresse": "296 Boulevard Mohamed Zerktouni, 2e étage, Casablanca",
+    "telephone": "05 22 29 97 39"
+  },
+  {
+    "id": "AGADIR-PRIVE-040",
+    "nom_fr": "Centre International d’Oncologie Agadir (AKDITAL)",
+    "nom_ar": "المركز الدولي للأنكولوجيا أكادير",
+    "ville": "Agadir",
+    "type": "Privé",
+    "niveau": "Centre spécialisé",
+    "adresse": "Zone Grand Stade, Route N°1, Ida Outanane, Agadir",
+    "telephone": "05 28 20 72 72"
+  },
+  {
+    "id": "OUJDA-044",
+    "nom_fr": " Centre Oriental Al Kindy ",
+    "nom_ar": "المركز الشرقي الكندي",
+    "ville": "Oujda",
+    "type": "Privé",
+    "niveau": "centre spécialisé",
+    "adresse": "Secteur Nord Marjane, Ryad Isly, Sous-Sol, Rez-de-chaussée et 1er étage, Oujda.",
+    "telephone": "05 36 70 70 81"
+  },
+  {
+    "id": "CIO-FES-045",
+    "nom_fr": "Centre Régional d'Oncologie Fès",
+    "nom_ar": "المركز الجهوي للأورام  فاس",
+    "ville": "Fès",
+    "type": "Public",
+    "niveau": "Centre régional",
+    "adresse": "CHU Hassan II, Route Sidi Harazem. Fès",
+    "telephone": "05 35 61 90 52-05 35 61 35 46"
+  },
+  {
+    "id": "CIO-FES-046",
+    "nom_fr": "Clinique Al Kaoutar",
+    "nom_ar": "مصحة الكوثر",
+    "ville": null,
+    "type": "Privé",
+    "niveau": "Centre spécialisé",
+    "adresse": "Avenue Mohammed El Fassi, Route d’Immouzer",
+    "telephone": "05 35 61 19 00-05 35 96 39 38"
+  }
+]

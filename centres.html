@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Centres - AmalCare</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo">AmalCare</div>
+</header>
+
+<main class="container">
+  <h1>Centres d’oncologie</h1>
+
+  <input type="text" id="search" placeholder="Rechercher une ville ou un centre">
+
+  <div id="centres-list"></div>
+</main>
+
+<script>
+fetch('data/centres.json')
+  .then(res => res.json())
+  .then(data => {
+
+    const container = document.getElementById('centres-list');
+    const search = document.getElementById('search');
+
+    function render(filter = '') {
+      container.innerHTML = '';
+
+      data
+        .filter(item =>
+          (item.nom_fr || '').toLowerCase().includes(filter.toLowerCase()) ||
+          (item.ville || '').toLowerCase().includes(filter.toLowerCase())
+        )
+        .forEach(item => {
+
+          container.innerHTML += `
+            <div class="centre-card">
+              <h3>${item.nom_fr || ''}</h3>
+
+              <p><strong>Ville :</strong> ${item.ville || ''}</p>
+              <p><strong>Type :</strong> ${item.type || ''}</p>
+              <p><strong>Téléphone :</strong> ${item.telephone || ''}</p>
+
+              <span class="badge">
+                ${item.niveau || ''}
+              </span>
+            </div>
+          `;
+        });
+    }
+
+    render();
+
+    search.addEventListener('input', e => {
+      render(e.target.value);
+    });
+
+  });
+</script>
+
+</body>
+</html>

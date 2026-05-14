@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Associations - AmalCare</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo">AmalCare</div>
+</header>
+
+<main class="container">
+  <h1>Associations & Maisons de Vie</h1>
+
+  <div id="associations-list"></div>
+</main>
+
+<script>
+fetch('data/associations.json')
+  .then(res => res.json())
+  .then(data => {
+
+    const container = document.getElementById('associations-list');
+
+    data.forEach(item => {
+
+      container.innerHTML += `
+        <div class="centre-card">
+
+          <h3>${item.nom || ''}</h3>
+
+          <p><strong>Ville :</strong> ${item.ville || ''}</p>
+          <p><strong>Type :</strong> ${item.type_structure || ''}</p>
+          <p><strong>Téléphone :</strong> ${item.telephone || ''}</p>
+
+        </div>
+      `;
+    });
+  });
+</script>
+
+</body>
+</html>
