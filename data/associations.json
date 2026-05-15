@@ -1,0 +1,432 @@
+[
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "Téléphones et adresses vérifiés sur sites officiels uniquement · Données non confirmées marquées 'Non publié' · Mai 2026",
+    "col_1": null,
+    "col_2": null,
+    "col_3": null,
+    "col_4": null,
+    "col_5": null,
+    "col_6": null,
+    "col_7": null
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "ID",
+    "col_1": "Nom (FR)",
+    "col_2": "Nom (AR)",
+    "col_3": "Ville",
+    "col_4": "Type",
+    "col_5": "Niveau",
+    "col_6": "Adresse",
+    "col_7": "Téléphone"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "INO-001",
+    "col_1": "Institut National d'Oncologie (INO)",
+    "col_2": "المعهد الوطني للأنكولوجيا",
+    "col_3": "Rabat",
+    "col_4": "Public",
+    "col_5": "Centre de référence national",
+    "col_6": "Av. Allal Al Fassi, Hay Riad, Rabat",
+    "col_7": "05 37 71 24 68 -84"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "HCZ-002",
+    "col_1": "Hôpital Cheikh Zaid – Centre d'Oncologie (HUI)",
+    "col_2": "مستشفى الشيخ زايد - مركز الأورام",
+    "col_3": "Rabat",
+    "col_4": "Privé",
+    "col_5": "Centre spécialisé",
+    "col_6": "Avenue Allal Fassi Madinate Al Irfane, Hay Riad",
+    "col_7": "05 37 68 68 68/           05 37 68 38 00"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "CIO-CASA-004",
+    "col_1": "Centre International d'Oncologie Casablanca – AKDITAL (CIOC)",
+    "col_2": "المركز الدولي لعلاج الأورام - الدار البيضاء",
+    "col_3": "Casablanca",
+    "col_4": "Privé",
+    "col_5": "Centre de référence privé",
+    "col_6": "4, Route de l'Oasis, Rue des Alouettes, Casablanca",
+    "col_7": "+212522778181"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "FES-005",
+    "col_1": "CHU Hassan II – Centre d'Oncologie",
+    "col_2": "مستشفى الحسن الثاني - الأورام",
+    "col_3": "Fès",
+    "col_4": "Public",
+    "col_5": "Centre spécialisé",
+    "col_6": "Route Sidi Harazem, Fès",
+    "col_7": "+212535619052"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "MARR-006",
+    "col_1": "CHU Mohammed VI Marrakech – Oncologie",
+    "col_2": "مستشفى محمد السادس - الأورام",
+    "col_3": "Marrakech",
+    "col_4": "Public",
+    "col_5": "Centre spécialisé",
+    "col_6": "CHU Mohammed VI Avenue Ibn Sina",
+    "col_7": " 05 24 30 06 29"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "TANGER-011",
+    "col_1": "Clinique d'Oncologie de Tanger – ONCORAD GROUP",
+    "col_2": "عيادة الأورام طنجة - مجموعة أونكوراد",
+    "col_3": "Tanger",
+    "col_4": "Privé",
+    "col_5": "Centre spécialisé",
+    "col_6": "Lot 12, Z.A.T. El Ghandouri, Malabata, Tanger",
+    "col_7": "+212539301786"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "AGADIR-008",
+    "col_1": "Centre Régional d'Oncologie Agadir",
+    "col_2": "المركز الجهوي لعلاج السرطان أكادير",
+    "col_3": "Agadir",
+    "col_4": "Public",
+    "col_5": "Centre régional",
+    "col_6": "Près Hôpital Hassan II, Agadir",
+    "col_7": "05 28 84 14 77 – 05 28 84 19 77"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "OUJDA-010",
+    "col_1": "CHU Mohammed VI Oujda – Oncologie",
+    "col_2": "مستشفى محمد السادس وجدة - الأورام",
+    "col_3": "Oujda",
+    "col_4": "Public",
+    "col_5": "Centre spécialisé",
+    "col_6": "CHU MOHAMMED VI, Oujda",
+    "col_7": "05 36 70 01 11"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "MEKNES-013",
+    "col_1": "Centre Régional d'Oncologie Meknès",
+    "col_2": "المركز الجهوي للأورام مكناس",
+    "col_3": "Meknès",
+    "col_4": "Public",
+    "col_5": "Centre régional",
+    "col_6": "Hôpital My Ismail, Rue Kifa, Ville nouvelle, Meknès",
+    "col_7": "05 55 52 28 05 - 05 55 52 26 22"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "LAAYOUNE-018",
+    "col_1": "Centre d'Oncologie Laâyoune (Public)",
+    "col_2": "مركز الأورام العيون",
+    "col_3": "Laâyoune",
+    "col_4": "Public",
+    "col_5": "Centre régional",
+    "col_6": "Quartier 25 mars Laâyoune",
+    "col_7": "05 37 77 70 70"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "BENI-MELLAL-029",
+    "col_1": "Centre d'Oncologie Béni Mellal (Public)",
+    "col_2": "مركز الأورام بني ملال",
+    "col_3": "Béni Mellal",
+    "col_4": "Public",
+    "col_5": "Centre régional",
+    "col_6": "Commune Ouled M'Barek Béni Mellal",
+    "col_7": "05 23 46 15 97"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "SHOP-020",
+    "col_1": "Service Hémato-Oncologie Pédiatrique (SHOP) – Hôpital d'Enfants Rabat",
+    "col_2": "مصلحة طب الدم والأورام للأطفال - مستشفى الأطفال الرباط",
+    "col_3": "Rabat",
+    "col_4": "Public",
+    "col_5": "Service spécialisé pédiatrique",
+    "col_6": "Hôpital d'Enfants, CHU Ibn Sina, Rabat",
+    "col_7": "05 37 67 02 24"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "HCK-021",
+    "col_1": "Casablanca Cancer Center – Hôpital Cheikh Khalifa",
+    "col_2": "مركز الدار البيضاء للسرطان - مستشفى الشيخ خليفة",
+    "col_3": "Casablanca",
+    "col_4": "Privé",
+    "col_5": "Centre de référence privé",
+    "col_6": "Bd Mohamed Taieb Naciri, Hay Hassani, Casablanca",
+    "col_7": "05 29 00 44 77"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "LITTORAL-022",
+    "col_1": "Clinique d'Oncologie Le Littoral – ONCORAD GROUP",
+    "col_2": "عيادة الأورام اللتورال - مجموعة أونكوراد",
+    "col_3": "Casablanca",
+    "col_4": "Privé",
+    "col_5": "Centre de référence privé",
+    "col_6": "Salaj 3, Corniche Aïn Diab, Casablanca",
+    "col_7": "05 20 66 68 90 /05 22 79 89 18-21"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "MAJORELLE-023",
+    "col_1": "Centre d'Oncologie Majorelle Marrakech – ONCORAD GROUP",
+    "col_2": "مركز الأورام ماجوريل مراكش - مجموعة أونكوراد",
+    "col_3": "Marrakech",
+    "col_4": "Privé",
+    "col_5": "Centre spécialisé",
+    "col_6": "Quartier Masmoudi Marrakech",
+    "col_7": "05 24 39 65 38"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "ATL-AGADIR-024",
+    "col_1": "Centre d'Oncologie Atlantique Agadir – ONCORAD",
+    "col_2": "مركز أورام أطلنتيك أكادير",
+    "col_3": "Agadir",
+    "col_4": "Privé",
+    "col_5": "Centre spécialisé",
+    "col_6": "Lot 624/625, Tikiouine, Extension Tilila, Agadir",
+    "col_7": "05 28 28 90 50 / 06 66 72 78 76"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "IBN-NAFIS-025",
+    "col_1": "Hôpital International Ibn Nafis Marrakech – AKDITAL",
+    "col_2": "مستشفى ابن نفيس الدولي مراكش",
+    "col_3": "Marrakech",
+    "col_4": "Privé",
+    "col_5": "Centre spécialisé",
+    "col_6": "Boumesmar Extension P2, Eddaoudiat – MARRAKECH.",
+    "col_7": "05 24 29 94 94"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "CIO-TANGER-026",
+    "col_1": "Centre International d'Oncologie Boughaz – AKDITAL",
+    "col_2": "المركز الدولي للأورام البوغاز - طنجة",
+    "col_3": "Tanger",
+    "col_4": "Privé",
+    "col_5": "Centre spécialisé",
+    "col_6": "Av. Moulay Rachid, Tanger (rattaché Hôpital Privé AKDITAL)",
+    "col_7": "+212539319898"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "SALE-027",
+    "col_1": "Centre d'Oncologie Privé de Salé – AKDITAL",
+    "col_2": "مركز الأورام الخاص بسلا",
+    "col_3": "Salé",
+    "col_4": "Privé",
+    "col_5": "Centre spécialisé",
+    "col_6": "Salé",
+    "col_7": "05 37 88 88 88"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "CIO-FES-028",
+    "col_1": "Centre International d'Oncologie de Fès – AKDITAL",
+    "col_2": "المركز الدولي للأورام فاس",
+    "col_3": "Fès",
+    "col_4": "Privé",
+    "col_5": "Centre spécialisé",
+    "col_6": "Fès",
+    "col_7": "05 35 72 48 48"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "CIO-OUJDA-029",
+    "col_1": "Centre International d'Oncologie Oujda – AKDITAL",
+    "col_2": "المركز الدولي للأورام وجدة",
+    "col_3": "Oujda",
+    "col_4": "Privé",
+    "col_5": "Centre spécialisé",
+    "col_6": "Rue Al Hanae Hay Arrabie, Oujda",
+    "col_7": "05 36 53 93 94"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "CIO-MEKNES-030",
+    "col_1": "Centre International d'Oncologie de Meknès – AKDITAL",
+    "col_2": "المركز الدولي للأورام مكناس",
+    "col_3": "Meknès",
+    "col_4": "Privé",
+    "col_5": "Centre spécialisé",
+    "col_6": "Meknès",
+    "col_7": "05 35 51 99 99"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "CIO-KENITRA-031",
+    "col_1": "Centre International d'Oncologie de Kénitra – AKDITAL",
+    "col_2": "المركز الدولي للأورام القنيطرة",
+    "col_3": "Kénitra",
+    "col_4": "Privé",
+    "col_5": "Centre spécialisé",
+    "col_6": "Kénitra",
+    "col_7": "05 37 36 96 96"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "BENGUERIR-032",
+    "col_1": "Centre International d'Oncologie de Benguérir – AKDITAL × UM6P",
+    "col_2": "المركز الدولي للأورام بنكرير",
+    "col_3": "Benguérir",
+    "col_4": "Privé",
+    "col_5": "Centre d'excellence",
+    "col_6": "Health Care City, Benguérir (Smart City UM6P)",
+    "col_7": "05 24 32 14 14 - 06 66 75 86 35"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "ELJADIDA-033",
+    "col_1": "Centre International d'Oncologie d'El Jadida – AKDITAL",
+    "col_2": "المركز الدولي للأورام الجديدة",
+    "col_3": "El Jadida",
+    "col_4": "Privé",
+    "col_5": "Centre spécialisé",
+    "col_6": "Ouassat Eljadida lot 32/E im.N2",
+    "col_7": "05 23 36 78 78"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "LDR-SALE-034",
+    "col_1": "Centre International d'Oncologie Les Deux Rives",
+    "col_2": "المركز الدولي للأورام ضفتان سلا",
+    "col_3": "Salé",
+    "col_4": "Privé",
+    "col_5": "Centre spécialisé",
+    "col_6": "66, Av. Hassan II, Hay Salam, Secteur I, Bettana, Salé",
+    "col_7": "0537803636  /0661557624"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "TANGER-PUBLIC-027",
+    "col_1": "Centre d’Oncologie Ahmed Ben Zayd",
+    "col_2": "المركز الجهوي للأنكولوجيا أحمد بن زايد",
+    "col_3": "Tanger",
+    "col_4": "Public",
+    "col_5": "Centre d'oncologie",
+    "col_6": "Km 16, route de Rabat, Tanger",
+    "col_7": "05 39 39 24 65"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "RABAT-AKDITAL-029",
+    "col_1": "Clinique Internationale de Rabat – Oncologie AKDITAL",
+    "col_2": "المصحة الدولية الرباط – الأورام",
+    "col_3": "Rabat",
+    "col_4": "Privé",
+    "col_5": "Centre spécialisé",
+    "col_6": "Quartier Agdal- Rabat",
+    "col_7": "05 37 74 99 99"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "RABAT-PRIVATE-028",
+    "col_1": "Centre d’Oncologie Al Azhar",
+    "col_2": "مركز الأزهر للأنكولوجيا",
+    "col_3": "Rabat",
+    "col_4": "Privé",
+    "col_5": "Centre spécialisé",
+    "col_6": "Rue Idriss Al Azhar, Hassan",
+    "col_7": "05 37 20 11 00"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "RABAT-MIL-030",
+    "col_1": "Hôpital Militaire Mohammed V – Oncologie",
+    "col_2": "المستشفى العسكري محمد الخامس – الأورام",
+    "col_3": "Rabat",
+    "col_4": "Public militaire",
+    "col_5": "Service oncologie",
+    "col_6": "05 37 20 11 00",
+    "col_7": "05 37 71 44 19"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "RABAT-PRIVATE-031",
+    "col_1": "Centre d’Oncologie Nakhil",
+    "col_2": "مركز الأنكولوجيا النخيل",
+    "col_3": "Rabat",
+    "col_4": "Privé",
+    "col_5": "Centre spécialisé",
+    "col_6": "4 Place Talha, Avenue Ibn Sina, Agdal, Rabat",
+    "col_7": "05 37 77 70 70 / 05 37 68 37 93"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "CASA-PRIVATE-033",
+    "col_1": "Centre de Traitement Al Kindy",
+    "col_2": "مركز العلاج الكندي",
+    "col_3": "Casablanca",
+    "col_4": "Privé",
+    "col_5": "Centre spécialisé",
+    "col_6": "Rue Abou Youssef El Kindy, Casablanca",
+    "col_7": "05 22 39 33 33/05 22 36 73 22"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "CASA-PRIVATE-034",
+    "col_1": "Clinique Ryad Oncologie",
+    "col_2": "مصحة الرياض للأنكولوجيا",
+    "col_3": "Casablanca",
+    "col_4": "Privé",
+    "col_5": "Centre spécialisé",
+    "col_6": "Quartier des Hôpitaux, Casablanca",
+    "col_7": "05 22 86 27 00"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "CASA-PUBLIC-036",
+    "col_1": "Centre Mohammed VI d’Oncologie – CHU Ibn Rochd",
+    "col_2": "مركز محمد السادس للأنكولوجيا – ابن رشد",
+    "col_3": "Casablanca",
+    "col_4": "Public",
+    "col_5": "Centre spécialisé universitaire",
+    "col_6": "CHU Ibn Rochd, Casablanca",
+    "col_7": "05 22 48 20 20"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "CASA-PUBLIC-037",
+    "col_1": "Hôpital 20 Août 1953 – Hématologie & Oncologie Pédiatrique",
+    "col_2": "مستشفى 20 غشت 1953 – أمراض الدم وأنكولوجيا الأطفال",
+    "col_3": "Casablanca",
+    "col_4": "Public",
+    "col_5": "Service spécialisé",
+    "col_6": "Hôpital 20 Août 1953,  6 rueLahcen El Aarjoun Quartier des hôpitaux Casablanca",
+    "col_7": "05 22 22 78 05"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "CASA-PRIVE-038",
+    "col_1": "Clinique Badr – Unité d’Oncologie Médicale",
+    "col_2": "مصحة بدر – وحدة الأنكولوجيا الطبية",
+    "col_3": "Casablanca",
+    "col_4": "Privé",
+    "col_5": "Service oncologie",
+    "col_6": "35 Rue Imam El Aloussi, Casablanca",
+    "col_7": "05 22 49 23 80"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "CASA-PRIVE-039",
+    "col_1": "Centre d’Oncologie Zerktouni",
+    "col_2": "مركز الزرقطوني للأنكولوجيا",
+    "col_3": "Casablanca",
+    "col_4": "Privé",
+    "col_5": "Cabinet oncologie",
+    "col_6": "296 Boulevard Mohamed Zerktouni, 2e étage, Casablanca",
+    "col_7": "05 22 29 97 39"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "AGADIR-PRIVE-040",
+    "col_1": "Centre International d’Oncologie Agadir (AKDITAL)",
+    "col_2": "المركز الدولي للأنكولوجيا أكادير",
+    "col_3": "Agadir",
+    "col_4": "Privé",
+    "col_5": "Centre spécialisé",
+    "col_6": "Zone Grand Stade, Route N°1, Ida Outanane, Agadir",
+    "col_7": "05 28 20 72 72"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "OUJDA-044",
+    "col_1": " Centre Oriental Al Kindy ",
+    "col_2": "المركز الشرقي الكندي",
+    "col_3": "Oujda",
+    "col_4": "Privé",
+    "col_5": "centre spécialisé",
+    "col_6": "Secteur Nord Marjane, Ryad Isly, Sous-Sol, Rez-de-chaussée et 1er étage, Oujda.",
+    "col_7": "05 36 70 70 81"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "CIO-FES-045",
+    "col_1": "Centre Régional d'Oncologie Fès",
+    "col_2": "المركز الجهوي للأورام  فاس",
+    "col_3": "Fès",
+    "col_4": "Public",
+    "col_5": "Centre régional",
+    "col_6": "CHU Hassan II, Route Sidi Harazem. Fès",
+    "col_7": "05 35 61 90 52-05 35 61 35 46"
+  },
+  {
+    "Centres d'oncologie au Maroc — Version auditée v2 | AmalCare | Mai 2026": "CIO-FES-046",
+    "col_1": "Clinique Al Kaoutar",
+    "col_2": "مصحة الكوثر",
+    "col_3": null,
+    "col_4": "Privé",
+    "col_5": "Centre spécialisé",
+    "col_6": "Avenue Mohammed El Fassi, Route d’Immouzer",
+    "col_7": "05 35 61 19 00-05 35 96 39 38"
+  }
+]
